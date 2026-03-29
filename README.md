@@ -1,6 +1,6 @@
 # Discord-CPv2-example
 
-Discord Components V2 (https://docs.discord.com/developers/components/reference)의
+Discord Components V2 (https://docs.discord.com/developers/components/reference) 의
 봇 메시지용 **모든 컴포넌트 타입**을 사용한 한국어 예제입니다.
 문서를 보기 싫거나 이미 만들어진, 실제 사용 가능한 모델 예제가 필요하신 분들을 위해 제작되었습니다.
 
